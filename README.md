@@ -33,7 +33,7 @@ This project implements a behavior-based architecture enabling an artificial age
 3. ## 📂 Repository Structure
 
 Here's an overview of the project directory to make navigation simple:
-
+first extract zip file
 ```plaintext
 behavioral-robotics/
 ├── src/
